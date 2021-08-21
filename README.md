@@ -1,4 +1,4 @@
-#Learn Step-by-Step Coding in C#
+Learn Step-by-Step Coding in C#
 
 This code relates to the following YouTube C# Tutorial
 
